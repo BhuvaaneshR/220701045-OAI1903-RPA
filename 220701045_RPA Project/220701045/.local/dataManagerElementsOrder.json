@@ -1,0 +1,70 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "employee_id&Sequence_1",
+        "employee_name&Sequence_1",
+        "clockin_fraction&Sequence_1",
+        "actual_timeof_clockin&Sequence_1",
+        "expected_timeof_clockin&Sequence_1",
+        "late_time&Sequence_1",
+        "late_minutes&Sequence_1",
+        "late_employees&Sequence_1",
+        "working_hours&Sequence_1",
+        "sample_print&Sequence_1",
+        "input_dataset&Sequence_1",
+        "clockout_fraction&Sequence_1",
+        "actual_timeof_clockout&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Working Duration.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "actual_timeof_clockin&Sequence_1",
+        "expected_timeof_clockin&Sequence_1",
+        "clockin_fraction&Sequence_1",
+        "working_hours&Sequence_1",
+        "actual_timeof_clockout&Sequence_1",
+        "clockout_fraction&Sequence_1",
+        "input_dataset&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Attendance Time.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "input&Sequence_1",
+        "input_dataset&Sequence_1",
+        "employee_id&Sequence_2",
+        "employee_name&Sequence_2",
+        "clockin_fraction&Sequence_2",
+        "actual_timeof_clockin&Sequence_2",
+        "expected_timeof_clockin&Sequence_2",
+        "late_time&Sequence_2",
+        "late_minutes&Sequence_2",
+        "input_dataset&Sequence_2",
+        "late_employees&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

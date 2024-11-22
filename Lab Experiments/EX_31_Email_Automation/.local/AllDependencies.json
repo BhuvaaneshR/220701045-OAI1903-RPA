@@ -23197,15 +23197,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lbhar\\.nuget\\packages\\": {}
+    "C:\\Users\\bhuva\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "EX_31_Email_Automation",
       "projectName": "EX_31_Email_Automation",
-      "projectPath": "C:\\Users\\lbhar\\OneDrive\\Documents\\UiPath\\EX_31_Email_Automation\\.local",
-      "packagesPath": "C:\\Users\\lbhar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lbhar\\OneDrive\\Documents\\UiPath\\EX_31_Email_Automation\\.local"
+      "projectPath": "E:\\220701045-OAI1903-RPA\\Lab Experiments\\EX_31_Email_Automation\\.local",
+      "packagesPath": "C:\\Users\\bhuva\\.nuget\\packages\\",
+      "outputPath": "E:\\220701045-OAI1903-RPA\\Lab Experiments\\EX_31_Email_Automation\\.local"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -23241,7 +23241,7 @@
             "version": "[24.10.6, 24.10.6]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\lbhar\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\bhuva\\AppData\\Local\\Programs\\UiPath\\Studio\\PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
